@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "CreatePost";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CreatePost</h2>
+<div id="createPost">
+    <div>
+        <textarea v-model="content"></textarea>
+    </div>
+    <div>
+        <input type="button" name="create" value="create" v-on:click="create" />
+    </div>
+</div>
+
+<script src="~/js/Home/createPost.js"></script>

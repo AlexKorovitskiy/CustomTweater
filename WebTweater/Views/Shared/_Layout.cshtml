@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="~/js/Shared/layoutPreLoad.js"></script>
+</head>
+<body>
+    <div>
+        <input id="logoutBtn" type="button" name="Logout" value="Logout" />
+    </div>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <script src="~/js/Shared/layoutView.js"></script>
+</body>
+</html>

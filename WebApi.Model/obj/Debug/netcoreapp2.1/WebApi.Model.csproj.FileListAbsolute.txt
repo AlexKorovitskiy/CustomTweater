@@ -1,0 +1,9 @@
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\bin\Debug\netcoreapp2.1\WebApi.Model.deps.json
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\bin\Debug\netcoreapp2.1\WebApi.Model.dll
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\bin\Debug\netcoreapp2.1\WebApi.Model.pdb
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.AssemblyInfoInputs.cache
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.AssemblyInfo.cs
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.dll
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.pdb
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\WebApi.Model\obj\Debug\netcoreapp2.1\WebApi.Model.csprojAssemblyReference.cache

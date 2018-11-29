@@ -1,0 +1,14 @@
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\RepositoryModels.dll
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\RepositoryModels.pdb
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\alexander.korovitsky\source\repos\CustomTweater\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json

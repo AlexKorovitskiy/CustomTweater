@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "RegistrationUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>RegistrationUser</h2>
+<div>
+    <form id="registerForm" action="" method="post">
+        <div>
+            <span>name</span>
+            <input id="registerNameUser" type="text" name="Login" value="" />
+        </div>
+        <div>
+            <span>password</span>
+            <input id="registerPasswordUser" type="password" name="Password" value="" />
+        </div>
+        <div>
+            <span>email</span>
+            <input id="registerEmailUser" type="email" name="email" value="" />
+        </div>
+        <div>
+            <input id="applyRegisterUserBtn" type="submit" name="registerUser" value="Register" />
+        </div>
+    </form>
+</div>
+
+<script src="~/js/Account/registrationUser.js"></script>

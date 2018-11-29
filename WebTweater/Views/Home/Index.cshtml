@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+<div class="row">
+    <div class="col-md-8 col-md-offset-2">
+        <div id="postsVue">
+            <input type="button" name="name" value="CreatePosts" v-on:click="createPost" />
+            <div v-for="post in posts">
+                <textarea>{{post.content}}</textarea>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-2">
+
+    </div>
+</div>
+
+
+<script src="~/js/Home/homeView.js"></script>
